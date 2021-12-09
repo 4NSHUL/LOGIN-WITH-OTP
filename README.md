@@ -11,3 +11,5 @@ Functionalities :
 1) UI to enter OTP and pop up based on validation.
 2) To generate OTP and send it to user.
 3) read the entered OTP and validate it.
+
+stpes to follow on twilio - https://www.twilio.com/code-exchange/one-time-passcode-verification-otp
